@@ -4,7 +4,7 @@ A simple guide for setting up a VPS, installing Pterodactyl Panel and Wings, and
 
 ## 1. Create a VPS and connect your domain
 
-- Create a VPS with root access. The dependency commands below target **Ubuntu 22.04**.
+- Create a VPS with root access. The dependency commands below target **Ubuntu 24+**.
 - Purchase or use an existing domain.
 - Connect your domain to Cloudflare if you want to manage DNS there.
 - Create a DNS record for your Panel hostname, such as `panel.example.com`, pointing to your VPS public IP.
